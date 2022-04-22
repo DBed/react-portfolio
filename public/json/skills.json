@@ -1,0 +1,37 @@
+[
+    {
+        "id": 7,
+        "name": "React",
+        "icon": "fa-brands fa-react"
+    },
+    {
+        "id": 8,
+        "name": "Javascript",
+        "icon": "fa-brands fa-js-square"
+    },
+    {
+        "id": 9,
+        "name": "Laravel",
+        "icon": "fa-brands fa-laravel"
+    },
+    {
+        "id": 10,
+        "name": "css",
+        "icon": "fa-brands fa-css3-alt"
+    },
+    {
+        "id": 11,
+        "name": "PHP",
+        "icon": "fa-brands fa-php"
+    },
+    {
+        "id": 12,
+        "name": "HTML",
+        "icon": "fa-brands fa-html5"
+    },
+    {
+        "id": 13,
+        "name": "Node JS",
+        "icon": "fa-brands fa-node-js"
+    }
+]

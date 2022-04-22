@@ -1,0 +1,26 @@
+[
+    {
+        "id": 4,
+        "degree": "Ontario Graduate Diploma",
+        "program": "Web Development",
+        "school": "Humber College",
+        "year_started": "2021",
+        "year_finished": "2022"
+    },
+    {
+        "id": 5,
+        "degree": "Bachelor of Education",
+        "program": "Elementary Education",
+        "school": "Mount St. Vincent University",
+        "year_started": "2013",
+        "year_finished": "2015"
+    },
+    {
+        "id": 6,
+        "degree": "Bachelor of Arts",
+        "program": "Biology & Literature",
+        "school": "Mount St. Vincent University",
+        "year_started": "2008",
+        "year_finished": "2012"
+    }
+]
